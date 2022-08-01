@@ -1,4 +1,3 @@
-# projeto1-curso-julio
-Exercicio flexbox
+# layout da pagina.
 Esse projeto foi criado no curso.
 Usando html,css é imagem.
